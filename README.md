@@ -7,6 +7,7 @@ A simple todo app built using React Hooks.
 The project template was created by [jacob-ebey](https://github.com/jacob-ebey/), and a few features were added by [Kevin Besenio](https://github.com/besenio/).
 
 Project template: https://github.com/tastejs/todomvc/tree/master/examples/react-hooks
+
 Original live demo (not live demo for this version): https://jacob-ebey.github.io/hooks-todo/
 
 ## Scripts For Running This Application
@@ -45,7 +46,7 @@ At first implementation, the assign todo input field and button were in plain si
 
 With that said, a goal of mine when creating an application is to make the application as user friendly as possible, so that the user can focus on enjoying the app more than dreading it. I believe the minor tweaks in hiding the assign todo features until needed makes this project uniquely mine.
 
-## Areas Of Improvement
+## Areas of Improvement
 
 A priority queue and sort can be implemented for users to have more weighted tasks appear at the top of the list, tackling the bigger assignments first. In addition, a drag and drop feature can help out with this improvement; and at the same time, making the application more interactive.
 
